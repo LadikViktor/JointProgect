@@ -1,0 +1,9 @@
+body {
+    background-color: green;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
